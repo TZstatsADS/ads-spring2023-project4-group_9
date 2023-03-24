@@ -4,7 +4,7 @@
 
 Term: Spring 2023
 
-+ Team #
++ Team 9
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
 	+ Liu, Yunfan 
