@@ -12,7 +12,11 @@ Term: Spring 2023
 	+ Tang, Qingyang 
 	+ Zhang, Haoyu 
 	+ Zhang, Zerui 
-+ Project summary: In this project, we implemented fairness algorithms in two papers:Fairness-aware Classifier with Prejudice Remover Regularizer (A5) and Handling Conditional Discrimination(A6). We applied the algorithms to COMPAS dataset to see which algorithm has a higher accuracy and also gives fairer results. The result shows that Fairness-aware Classifier with Prejudice Remover Regularizer (A5) gives the best results with the lowest calibration score and reasonable accuracy.
++ Project summary: In this project, we implemented fairness algorithms in two papers:Fairness-aware Classifier with Prejudice Remover Regularizer (A5) and Handling Conditional Discrimination(A6). We applied the algorithms to COMPAS dataset to see which algorithm has a higher accuracy and also gives fairer results. The result shows that Local messaging (A6 LM) performs best in accuracy and calibration trade off and is generally the best one. Prejudice Remover Regularizer (A5) reduces calibration to nearly 0, but sacrifices too much accuracy. It can be used when calibration is extremely important.
+
+
+
+
 	
 
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
